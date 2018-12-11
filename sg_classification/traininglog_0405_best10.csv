@@ -1,0 +1,633 @@
+Trial 0
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.1, 20, 20, 0.1, 1e-07])"
+training,95.55555555555556,validation,93.75
+Trial 1
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 25, 20, 0.3, 1e-07])"
+training,97.5,validation,95.83333333333334
+Trial 2
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.2, 100, 20, 0.3, 1e-05])"
+training,97.84722222222221,validation,95.625
+Trial 3
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.4, 20, 0, 0.6, 1e-06])"
+training,95.76388888888889,validation,94.16666666666667
+Trial 4
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.4, 50, 20, 0.1, 1e-07])"
+training,96.875,validation,94.375
+Trial 5
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 20, 40, 1.0, 1e-08])"
+training,95.76388888888889,validation,95.0
+Trial 6
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.2, 100, 100, 0.6, 1e-05])"
+training,96.45833333333333,validation,95.0
+Trial 7
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.2, 100, 100, 0.3, 1e-06])"
+training,98.75,validation,95.83333333333334
+Trial 8
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.9, 25, 20, 1.0, 1e-05])"
+training,96.11111111111111,validation,95.625
+Trial 9
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.9, 25, 40, 0.6, 1e-08])"
+training,97.43055555555556,validation,95.41666666666667
+Trial 10
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.9, 40, 100, 0.6, 1e-08])"
+training,97.63888888888889,validation,96.25
+Trial 11
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.1, 50, 20, 0.3, 1e-06])"
+training,96.31944444444444,validation,94.16666666666667
+Trial 12
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.4, 25, 100, 1.0, 1e-05])"
+training,95.97222222222223,validation,95.20833333333333
+Trial 13
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.2, 20, 100, 1.0, 1e-05])"
+training,95.06944444444444,validation,93.95833333333333
+Trial 14
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.9, 40, 40, 0.6, 1e-07])"
+training,98.19444444444444,validation,95.625
+Trial 15
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.9, 40, 20, 0.1, 1e-07])"
+training,99.02777777777779,validation,96.25
+Trial 16
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.9, 40, 20, 1.0, 1e-05])"
+training,96.73611111111111,validation,95.625
+Trial 17
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.1, 40, 0, 1.0, 1e-08])"
+training,96.25,validation,95.0
+Trial 18
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.1, 40, 100, 0.1, 1e-06])"
+training,97.01388888888889,validation,95.41666666666667
+Trial 19
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 40, 100, 0.1, 1e-08])"
+training,98.88888888888889,validation,95.41666666666667
+Trial 20
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.4, 20, 20, 0.6, 1e-07])"
+training,95.83333333333334,validation,94.16666666666667
+Trial 21
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.0, 40, 40, 0.6, 1e-08])"
+training,96.38888888888889,validation,94.375
+Trial 22
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.2, 50, 0, 0.3, 1e-07])"
+training,97.98611111111111,validation,95.625
+Trial 23
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.4, 40, 100, 0.3, 1e-05])"
+training,96.94444444444444,validation,95.41666666666667
+Trial 24
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.4, 50, 20, 0.1, 1e-07])"
+training,97.56944444444444,validation,95.41666666666667
+Trial 25
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.2, 40, 20, 0.3, 1e-06])"
+training,96.59722222222223,validation,95.20833333333333
+Trial 26
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.0, 25, 20, 0.1, 1e-06])"
+training,95.97222222222223,validation,94.375
+Trial 27
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.2, 100, 40, 1.0, 1e-07])"
+training,95.55555555555556,validation,94.16666666666667
+Trial 28
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.2, 20, 20, 0.6, 1e-07])"
+training,95.34722222222223,validation,93.125
+Trial 29
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.2, 25, 100, 0.1, 1e-07])"
+training,97.70833333333333,validation,95.0
+Trial 30
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.6, 40, 20, 0.3, 1e-06])"
+training,98.05555555555556,validation,96.25
+Trial 31
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.2, 100, 100, 1.0, 1e-05])"
+training,93.81944444444444,validation,93.125
+Trial 32
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.9, 20, 0, 0.6, 1e-05])"
+training,96.52777777777779,validation,95.0
+Trial 33
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.1, 20, 20, 0.1, 1e-06])"
+training,97.5,validation,94.16666666666667
+Trial 34
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.9, 25, 0, 0.1, 1e-05])"
+training,98.54166666666667,validation,95.83333333333334
+Trial 35
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.4, 20, 100, 1.0, 1e-05])"
+training,95.76388888888889,validation,94.79166666666666
+Trial 36
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.1, 25, 40, 0.6, 1e-07])"
+training,95.90277777777779,validation,94.16666666666667
+Trial 37
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.2, 40, 40, 0.1, 1e-05])"
+training,98.75,validation,95.625
+Trial 38
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.1, 100, 0, 0.3, 1e-06])"
+training,98.61111111111111,validation,95.83333333333334
+Trial 39
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.1, 100, 20, 0.6, 1e-05])"
+training,96.66666666666667,validation,95.625
+Trial 40
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.1, 50, 40, 1.0, 1e-05])"
+training,96.18055555555556,validation,94.79166666666666
+Trial 41
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.6, 100, 40, 0.6, 1e-08])"
+training,97.01388888888889,validation,94.58333333333333
+Trial 42
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.4, 50, 40, 1.0, 1e-07])"
+training,95.13888888888889,validation,93.95833333333333
+Trial 43
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.9, 25, 0, 0.1, 1e-05])"
+training,98.19444444444444,validation,95.0
+Trial 44
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.2, 50, 40, 0.1, 1e-05])"
+training,98.95833333333334,validation,96.25
+Trial 45
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.4, 25, 100, 0.3, 1e-08])"
+training,98.47222222222223,validation,95.83333333333334
+Trial 46
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.0, 25, 40, 0.6, 1e-06])"
+training,96.25,validation,94.16666666666667
+Trial 47
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.4, 50, 40, 0.3, 1e-05])"
+training,97.77777777777777,validation,94.79166666666666
+Trial 48
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.9, 25, 40, 1.0, 1e-06])"
+training,97.01388888888889,validation,96.04166666666667
+Trial 49
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.1, 50, 40, 0.3, 1e-06])"
+training,96.875,validation,94.375
+Trial 50
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.0, 100, 20, 0.6, 1e-08])"
+training,95.27777777777777,validation,94.79166666666666
+Trial 51
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.9, 50, 40, 0.1, 1e-06])"
+training,98.47222222222223,validation,95.0
+Trial 52
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.9, 40, 0, 1.0, 1e-05])"
+training,96.45833333333333,validation,95.20833333333333
+Trial 53
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.4, 40, 100, 1.0, 1e-08])"
+training,95.34722222222223,validation,94.58333333333333
+Trial 54
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.9, 20, 40, 0.1, 1e-07])"
+training,98.47222222222223,validation,96.04166666666667
+Trial 55
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.0, 20, 40, 0.1, 1e-07])"
+training,97.70833333333333,validation,96.04166666666667
+Trial 56
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.6, 50, 20, 0.6, 1e-07])"
+training,96.04166666666667,validation,95.0
+Trial 57
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.0, 20, 40, 0.1, 1e-06])"
+training,98.47222222222223,validation,95.83333333333334
+Trial 58
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.0, 50, 20, 0.6, 1e-06])"
+training,95.20833333333333,validation,94.375
+Trial 59
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.6, 100, 40, 0.3, 1e-08])"
+training,98.125,validation,94.375
+Trial 60
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.1, 20, 20, 0.1, 1e-08])"
+training,95.48611111111111,validation,93.75
+Trial 61
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.6, 20, 0, 0.3, 1e-05])"
+training,97.70833333333333,validation,96.04166666666667
+Trial 62
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.6, 20, 20, 0.1, 1e-07])"
+training,97.36111111111111,validation,94.79166666666666
+Trial 63
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.0, 50, 100, 1.0, 1e-05])"
+training,95.41666666666667,validation,93.95833333333333
+Trial 64
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.4, 40, 0, 0.3, 1e-07])"
+training,98.05555555555556,validation,95.41666666666667
+Trial 65
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.0, 25, 100, 0.1, 1e-08])"
+training,98.88888888888889,validation,95.625
+Trial 66
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.6, 25, 20, 0.1, 1e-08])"
+training,97.84722222222221,validation,95.20833333333333
+Trial 67
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.1, 50, 40, 1.0, 1e-06])"
+training,94.375,validation,92.91666666666667
+Trial 68
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.9, 50, 40, 0.1, 1e-06])"
+training,99.02777777777779,validation,96.25
+Trial 69
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.9, 25, 40, 0.1, 1e-06])"
+training,98.40277777777777,validation,95.41666666666667
+Trial 70
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.6, 40, 0, 0.1, 1e-08])"
+training,98.81944444444444,validation,95.83333333333334
+Trial 71
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.1, 20, 100, 0.1, 1e-07])"
+training,96.11111111111111,validation,94.79166666666666
+Trial 72
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.0, 100, 40, 0.3, 1e-06])"
+training,98.125,validation,95.0
+Trial 73
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.1, 100, 40, 0.1, 1e-06])"
+training,98.33333333333333,validation,94.79166666666666
+Trial 74
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.4, 40, 20, 0.6, 1e-07])"
+training,97.08333333333333,validation,96.25
+Trial 75
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.0, 20, 40, 1.0, 1e-08])"
+training,95.13888888888889,validation,94.79166666666666
+Trial 76
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.9, 100, 40, 1.0, 1e-07])"
+training,95.48611111111111,validation,94.375
+Trial 77
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.9, 40, 20, 1.0, 1e-05])"
+training,94.86111111111111,validation,93.125
+Trial 78
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.0, 50, 20, 1.0, 1e-06])"
+training,95.83333333333334,validation,94.79166666666666
+Trial 79
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.9, 20, 20, 0.6, 1e-08])"
+training,95.48611111111111,validation,94.79166666666666
+Trial 80
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.2, 100, 20, 1.0, 1e-06])"
+training,96.04166666666667,validation,95.20833333333333
+Trial 81
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.0, 40, 100, 0.6, 1e-07])"
+training,95.97222222222223,validation,95.41666666666667
+Trial 82
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.2, 20, 0, 0.6, 1e-07])"
+training,96.45833333333333,validation,94.79166666666666
+Trial 83
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.1, 100, 40, 0.1, 1e-07])"
+training,97.77777777777777,validation,94.58333333333333
+Trial 84
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.1, 20, 100, 0.3, 1e-05])"
+training,97.63888888888889,validation,95.625
+Trial 85
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.1, 25, 100, 0.3, 1e-06])"
+training,95.97222222222223,validation,94.375
+Trial 86
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.4, 100, 100, 0.1, 1e-06])"
+training,98.68055555555556,validation,95.83333333333334
+Trial 87
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.9, 100, 40, 0.6, 1e-08])"
+training,97.5,validation,95.20833333333333
+Trial 88
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 20, 0, 1.0, 1e-08])"
+training,95.625,validation,95.0
+Trial 89
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.9, 25, 20, 0.3, 1e-08])"
+training,97.5,validation,94.58333333333333
+Trial 90
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.6, 100, 40, 1.0, 1e-07])"
+training,95.06944444444444,validation,93.75
+Trial 91
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.0, 100, 40, 1.0, 1e-07])"
+training,94.51388888888889,validation,93.33333333333333
+Trial 92
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.0, 25, 20, 1.0, 1e-05])"
+training,95.83333333333334,validation,94.58333333333333
+Trial 93
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.9, 40, 20, 1.0, 1e-06])"
+training,96.04166666666667,validation,94.79166666666666
+Trial 94
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.9, 50, 40, 0.3, 1e-05])"
+training,98.68055555555556,validation,96.04166666666667
+Trial 95
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.9, 50, 0, 0.6, 1e-06])"
+training,96.875,validation,95.41666666666667
+Trial 96
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.6, 100, 100, 0.6, 1e-06])"
+training,97.91666666666666,validation,95.41666666666667
+Trial 97
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.6, 20, 0, 0.6, 1e-07])"
+training,96.59722222222223,validation,95.20833333333333
+Trial 98
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.0, 25, 20, 1.0, 1e-08])"
+training,92.77777777777779,validation,92.29166666666667
+Trial 99
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.2, 50, 20, 0.6, 1e-06])"
+training,97.01388888888889,validation,94.79166666666666
+Trial 100
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.2, 25, 40, 0.1, 1e-06])"
+training,97.70833333333333,validation,95.0
+Trial 101
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.2, 100, 0, 0.3, 1e-08])"
+training,96.73611111111111,validation,94.79166666666666
+Trial 102
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.1, 25, 100, 0.3, 1e-08])"
+training,96.66666666666667,validation,94.79166666666666
+Trial 103
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.0, 50, 100, 0.6, 1e-05])"
+training,95.69444444444444,validation,94.58333333333333
+Trial 104
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.1, 20, 40, 0.3, 1e-07])"
+training,95.69444444444444,validation,95.0
+Trial 105
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.6, 25, 100, 0.3, 1e-07])"
+training,97.63888888888889,validation,95.625
+Trial 106
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.1, 40, 0, 1.0, 1e-05])"
+training,96.25,validation,94.79166666666666
+Trial 107
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.2, 50, 0, 0.3, 1e-07])"
+training,97.5,validation,95.625
+Trial 108
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.0, 25, 40, 0.6, 1e-07])"
+training,96.18055555555556,validation,94.79166666666666
+Trial 109
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.2, 25, 20, 0.3, 1e-07])"
+training,97.08333333333333,validation,94.79166666666666
+Trial 110
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.1, 40, 40, 0.3, 1e-05])"
+training,97.56944444444444,validation,95.41666666666667
+Trial 111
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.2, 40, 20, 0.1, 1e-07])"
+training,97.22222222222221,validation,95.20833333333333
+Trial 112
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.0, 50, 40, 1.0, 1e-07])"
+training,96.66666666666667,validation,95.0
+Trial 113
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.0, 100, 0, 0.3, 1e-07])"
+training,98.05555555555556,validation,95.41666666666667
+Trial 114
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.0, 40, 0, 0.3, 1e-05])"
+training,98.05555555555556,validation,95.41666666666667
+Trial 115
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.0, 20, 100, 0.3, 1e-05])"
+training,95.48611111111111,validation,94.375
+Trial 116
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.1, 40, 100, 1.0, 1e-07])"
+training,96.18055555555556,validation,95.83333333333334
+Trial 117
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.9, 100, 0, 0.3, 1e-06])"
+training,98.81944444444444,validation,96.04166666666667
+Trial 118
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.9, 100, 20, 0.6, 1e-05])"
+training,97.63888888888889,validation,96.25
+Trial 119
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.2, 20, 0, 0.6, 1e-05])"
+training,94.51388888888889,validation,93.125
+Trial 120
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.4, 100, 0, 1.0, 1e-08])"
+training,95.83333333333334,validation,94.58333333333333
+Trial 121
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.2, 50, 0, 0.1, 1e-07])"
+training,98.19444444444444,validation,95.625
+Trial 122
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.2, 40, 40, 0.6, 1e-08])"
+training,97.91666666666666,validation,95.20833333333333
+Trial 123
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.2, 25, 40, 0.3, 1e-05])"
+training,97.63888888888889,validation,95.83333333333334
+Trial 124
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.6, 25, 20, 1.0, 1e-08])"
+training,95.83333333333334,validation,94.79166666666666
+Trial 125
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.1, 20, 100, 0.3, 1e-07])"
+training,96.25,validation,94.79166666666666
+Trial 126
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.0, 25, 20, 0.1, 1e-08])"
+training,96.11111111111111,validation,94.58333333333333
+Trial 127
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.2, 40, 100, 0.3, 1e-08])"
+training,97.01388888888889,validation,95.41666666666667
+Trial 128
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.4, 40, 100, 0.1, 1e-08])"
+training,98.33333333333333,validation,95.83333333333334
+Trial 129
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.4, 20, 100, 0.6, 1e-08])"
+training,95.27777777777777,validation,94.16666666666667
+Trial 130
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.9, 40, 0, 0.1, 1e-08])"
+training,99.02777777777779,validation,95.83333333333334
+Trial 131
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.0, 50, 20, 0.6, 1e-07])"
+training,96.59722222222223,validation,95.20833333333333
+Trial 132
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.9, 40, 100, 0.1, 1e-07])"
+training,99.02777777777779,validation,95.20833333333333
+Trial 133
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.4, 40, 0, 0.1, 1e-08])"
+training,98.125,validation,95.41666666666667
+Trial 134
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.2, 40, 20, 0.6, 1e-06])"
+training,96.59722222222223,validation,95.20833333333333
+Trial 135
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.6, 100, 40, 0.3, 1e-05])"
+training,97.22222222222221,validation,93.95833333333333
+Trial 136
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.9, 40, 100, 0.3, 1e-07])"
+training,98.88888888888889,validation,94.79166666666666
+Trial 137
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.9, 100, 100, 0.6, 1e-07])"
+training,98.125,validation,95.625
+Trial 138
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.0, 50, 100, 0.6, 1e-05])"
+training,97.77777777777777,validation,95.41666666666667
+Trial 139
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.9, 20, 20, 1.0, 1e-08])"
+training,94.375,validation,93.125
+Trial 140
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.6, 20, 40, 0.1, 1e-08])"
+training,97.63888888888889,validation,95.83333333333334
+Trial 141
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.6, 40, 0, 0.1, 1e-07])"
+training,98.81944444444444,validation,95.83333333333334
+Trial 142
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.0, 50, 0, 1.0, 1e-05])"
+training,95.83333333333334,validation,94.58333333333333
+Trial 143
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.1, 20, 0, 0.6, 1e-08])"
+training,94.375,validation,93.125
+Trial 144
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.0, 50, 0, 0.6, 1e-06])"
+training,97.77777777777777,validation,96.04166666666667
+Trial 145
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.6, 40, 20, 1.0, 1e-05])"
+training,95.20833333333333,validation,93.125
+Trial 146
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.6, 50, 20, 1.0, 1e-06])"
+training,96.875,validation,95.0
+Trial 147
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.6, 50, 100, 1.0, 1e-07])"
+training,95.97222222222223,validation,95.20833333333333
+Trial 148
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.1, 50, 40, 0.1, 1e-08])"
+training,97.63888888888889,validation,94.79166666666666
+Trial 149
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.4, 40, 20, 1.0, 1e-07])"
+training,93.54166666666667,validation,93.33333333333333
+Trial 150
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.9, 20, 0, 0.3, 1e-06])"
+training,97.43055555555556,validation,95.625
+Trial 151
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.9, 25, 40, 0.3, 1e-05])"
+training,96.66666666666667,validation,94.79166666666666
+Trial 152
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.2, 50, 100, 1.0, 1e-07])"
+training,94.16666666666667,validation,93.75
+Trial 153
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 40, 100, 1.0, 1e-08])"
+training,95.90277777777779,validation,93.75
+Trial 154
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.6, 40, 40, 0.1, 1e-07])"
+training,98.75,validation,95.41666666666667
+Trial 155
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.0, 50, 0, 0.3, 1e-07])"
+training,98.125,validation,95.83333333333334
+Trial 156
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.0, 25, 100, 0.1, 1e-07])"
+training,97.01388888888889,validation,94.58333333333333
+Trial 157
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.6, 100, 20, 0.6, 1e-08])"
+training,96.875,validation,95.41666666666667
+Trial 158
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.9, 25, 40, 0.6, 1e-05])"
+training,96.73611111111111,validation,95.83333333333334
+Trial 159
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.2, 100, 20, 0.1, 1e-05])"
+training,97.29166666666667,validation,95.0
+Trial 160
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.9, 40, 20, 0.3, 1e-07])"
+training,97.77777777777777,validation,95.20833333333333
+Trial 161
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.1, 50, 20, 1.0, 1e-05])"
+training,96.11111111111111,validation,94.79166666666666
+Trial 162
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 40, 100, 0.6, 1e-06])"
+training,97.56944444444444,validation,95.41666666666667
+Trial 163
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.6, 25, 40, 0.1, 1e-05])"
+training,98.68055555555556,validation,96.04166666666667
+Trial 164
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.6, 25, 20, 1.0, 1e-07])"
+training,95.27777777777777,validation,94.375
+Trial 165
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.0, 100, 0, 0.6, 1e-07])"
+training,95.83333333333334,validation,94.375
+Trial 166
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.6, 100, 40, 0.1, 1e-05])"
+training,98.54166666666667,validation,95.0
+Trial 167
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.2, 100, 0, 1.0, 1e-06])"
+training,95.69444444444444,validation,94.375
+Trial 168
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.0, 100, 100, 1.0, 1e-05])"
+training,95.48611111111111,validation,94.16666666666667
+Trial 169
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.4, 25, 40, 0.6, 1e-08])"
+training,96.45833333333333,validation,94.58333333333333
+Trial 170
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.6, 20, 0, 0.1, 1e-07])"
+training,98.26388888888889,validation,96.25
+Trial 171
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.1, 50, 100, 0.6, 1e-08])"
+training,96.94444444444444,validation,94.58333333333333
+Trial 172
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.1, 100, 100, 0.6, 1e-05])"
+training,96.31944444444444,validation,94.79166666666666
+Trial 173
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.9, 20, 20, 0.3, 1e-08])"
+training,98.125,validation,94.58333333333333
+Trial 174
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.0, 50, 100, 0.1, 1e-07])"
+training,98.125,validation,94.79166666666666
+Trial 175
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.1, 50, 40, 0.3, 1e-08])"
+training,97.63888888888889,validation,94.58333333333333
+Trial 176
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.9, 100, 0, 0.1, 1e-07])"
+training,98.75,validation,95.625
+Trial 177
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.0, 25, 0, 1.0, 1e-06])"
+training,96.11111111111111,validation,94.58333333333333
+Trial 178
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.1, 100, 0, 0.6, 1e-05])"
+training,97.36111111111111,validation,95.625
+Trial 179
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.1, 25, 40, 1.0, 1e-06])"
+training,95.83333333333334,validation,94.79166666666666
+Trial 180
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 25, 0, 0.3, 1e-05])"
+training,97.43055555555556,validation,95.83333333333334
+Trial 181
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.6, 20, 100, 1.0, 1e-07])"
+training,94.51388888888889,validation,94.16666666666667
+Trial 182
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.6, 100, 0, 0.3, 1e-06])"
+training,98.125,validation,95.41666666666667
+Trial 183
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.2, 20, 20, 0.1, 1e-06])"
+training,97.08333333333333,validation,94.375
+Trial 184
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.9, 50, 100, 0.1, 1e-08])"
+training,99.09722222222223,validation,96.04166666666667
+Trial 185
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.0, 40, 0, 0.3, 1e-07])"
+training,95.83333333333334,validation,94.79166666666666
+Trial 186
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.2, 20, 20, 0.1, 1e-05])"
+training,97.15277777777777,validation,94.375
+Trial 187
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.2, 50, 40, 0.3, 1e-05])"
+training,96.80555555555556,validation,94.16666666666667
+Trial 188
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.6, 25, 20, 0.1, 1e-06])"
+training,98.47222222222223,validation,95.625
+Trial 189
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.6, 20, 40, 0.3, 1e-07])"
+training,95.97222222222223,validation,95.20833333333333
+Trial 190
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.2, 20, 100, 0.6, 1e-05])"
+training,95.90277777777779,validation,94.375
+Trial 191
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.1, 20, 100, 1.0, 1e-06])"
+training,94.72222222222221,validation,93.95833333333333
+Trial 192
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.4, 50, 40, 0.6, 1e-05])"
+training,96.59722222222223,validation,94.375
+Trial 193
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.1, 50, 20, 1.0, 1e-08])"
+training,95.76388888888889,validation,94.58333333333333
+Trial 194
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.4, 50, 0, 0.1, 1e-06])"
+training,96.73611111111111,validation,95.20833333333333
+Trial 195
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.6, 40, 0, 1.0, 1e-07])"
+training,96.38888888888889,validation,95.20833333333333
+Trial 196
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.1, 20, 40, 0.6, 1e-08])"
+training,96.59722222222223,validation,95.20833333333333
+Trial 197
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.01, 0.1, 50, 100, 1.0, 1e-07])"
+training,96.18055555555556,validation,93.95833333333333
+Trial 198
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.2, 25, 20, 0.1, 1e-08])"
+training,98.54166666666667,validation,95.83333333333334
+Trial 199
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.9, 50, 20, 0.6, 1e-05])"
+training,96.45833333333333,validation,94.16666666666667
+Trial 200
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.6, 50, 0, 1.0, 1e-05])"
+training,95.90277777777779,validation,94.58333333333333
+Trial 201
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.01, 0.1, 40, 100, 0.3, 1e-07])"
+training,97.84722222222221,validation,95.625
+Trial 202
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.9, 40, 20, 0.3, 1e-05])"
+training,97.98611111111111,validation,95.83333333333334
+Trial 203
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.005, 0.4, 50, 40, 0.1, 1e-07])"
+training,99.02777777777779,validation,96.04166666666667
+Trial 204
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.2, 25, 20, 1.0, 1e-05])"
+training,95.69444444444444,validation,94.375
+Trial 205
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.001, 0.6, 100, 100, 1.0, 1e-05])"
+training,93.19444444444444,validation,92.08333333333333
+Trial 206
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.001, 0.6, 40, 40, 0.3, 1e-06])"
+training,97.56944444444444,validation,94.79166666666666
+Trial 207
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.005, 0.01, 0.2, 40, 20, 1.0, 1e-06])"
+training,95.83333333333334,validation,95.625
+Trial 208
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.001, 0.005, 0.0, 100, 20, 0.3, 1e-06])"
+training,97.70833333333333,validation,95.625
+Trial 209
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.005, 0.9, 100, 0, 0.6, 1e-06])"
+training,97.77777777777777,validation,95.625
+Trial 210
+"dict_keys(['l2reg', 'lr', 'momentum', 'neurons1', 'neurons2', 'noise', 'weight_decay'])","dict_values([0.0005, 0.001, 0.9, 40, 100, 0.6, 1e-06])"
+training,96.80555555555556,validation,95.20833333333333
